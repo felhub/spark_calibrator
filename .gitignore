@@ -1,0 +1,18 @@
+# folder for books papers, and datasheets
+documents 
+
+# KICAD
+# Temporary files
+*-backups
+
+*.kicad_prl
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+#gerbers folders (exported from PCBNew)
+gerbers
+
+#panelized
+*-panel
