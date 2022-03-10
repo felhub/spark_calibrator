@@ -16,3 +16,9 @@ gerbers
 
 #panelized
 *-panel
+
+# SIMULATION
+simulation/*.log
+simulation/*.raw
+simulation/*.plt
+simulation/lib
