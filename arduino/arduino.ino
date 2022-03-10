@@ -22,7 +22,7 @@ void loop() {
     }
   }
 
-  if(millis()-onTime > 5 && digitalRead(outpin)){
+  if(millis()-onTime > 10 && digitalRead(outpin)){
     digitalWrite(outpin, LOW);
     Serial.println("done");
   }
