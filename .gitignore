@@ -11,10 +11,11 @@ fp-info-cache
 # Netlist files (exported from Eeschema)
 *.net
 
-#gerbers folders (exported from PCBNew)
+# gerbers folders (exported from PCBNew)
 gerbers
+flatcam
 
-#panelized
+# panelized
 *-panel
 
 # SIMULATION
